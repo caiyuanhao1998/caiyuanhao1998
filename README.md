@@ -9,4 +9,4 @@
 :mortar_board: Now Master student in THU. Obtained my bachelor's degree from THU.
 
 
-:fire: Looking for a PHD position in 2023. Contact to cyh20@mails.tsinghua.edu.cn.
+:fire: Looking for a PhD position in 2023. Contact to cyh20@mails.tsinghua.edu.cn.
