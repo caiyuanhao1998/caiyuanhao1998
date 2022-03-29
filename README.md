@@ -14,4 +14,4 @@
 
 ⚡ An active player in competitions of international top academic conference:
 
-<img src="https://github.com/caiyuanhao1998/RSN/figures/2019_winner.png" height="200px"/> <img src="https://github.com/caiyuanhao1998/RSN/figures/2019_best_paper.png" height="200px"/> <img src="https://github.com/caiyuanhao1998/RSN/figures/2020_winner.png" height="200px"/> 
+<img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_winner.png" height="200px"/> <img src="https://github.com/caiyuanhao1998/RSN/figures/2019_best_paper.png" height="200px"/> <img src="https://github.com/caiyuanhao1998/RSN/figures/2020_winner.png" height="200px"/> 
