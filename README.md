@@ -11,3 +11,6 @@
 
 
 :fire: Looking for a PhD position in 2023. Contact to cyh20@mails.tsinghua.edu.cn.
+
+⚡: An active player in academic competitions
+
