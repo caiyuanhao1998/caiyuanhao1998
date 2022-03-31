@@ -13,7 +13,7 @@
 
 :fire: Looking for a PhD position in 2023. Contact to cyh20@mails.tsinghua.edu.cn.
 
-⚡ An active player in competitions of international top academic conference:
+⚡ An active player in competitions of international top academic conferences:
 
 <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_winner.png" height="205px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_best_paper.png" height="208px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2020_winner.png" height="205px"/> 
 
