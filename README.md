@@ -16,3 +16,9 @@
 ⚡ An active player in competitions of international top academic conference:
 
 <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_winner.png" height="197px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_best_paper.png" height="200px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2020_winner.png" height="197px"/> 
+
+🌱 **My Repositories**
+|   Topic   |     Title     |    Badge  |
+|:---:|:------:|             :--------------------------:                     |
+|  Human Pose Estimation   |   ["Learning Delicate Local Representations for Multi-Person Pose Estimation" (ECCV 2020 Spotlight) and "Res-Steps-Net for Multi-Person Pose Estimation" (ICCVW 2019 Best Paper Award & COCO 2019 Keypoint Challenge Winner)](https://github.com/caiyuanhao1998/RSN)   |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2003.04030)[![GitHub Stars](https://img.shields.io/github/stars/caiyuanhao1998/RSN?style=social)](https://github.com/caiyuanhao1998/RSN)[![download](https://img.shields.io/github/downloads/caiyuanhao1998/RSN/total.svg)](https://github.com/caiyuanhao1998/RSN/releases)![visitors](https://visitor-badge.glitch.me/badge?page_id=caiyuanhao1998/RSN)
+
