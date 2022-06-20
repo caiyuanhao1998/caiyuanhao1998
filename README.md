@@ -11,7 +11,7 @@
 
 ⚡ An active player in competitions of international top academic conferences:
 
-<img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_winner.png" height="153px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_best_paper.png" height="155px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2020_winner.png" height="153px"/> <img src="https://github.com/caiyuanhao1998/MST/blob/master/figure/ntire.png" height="153px"/> 
+<img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_winner.png" height="153px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2019_best_paper.png" height="155px"/> <img src="https://github.com/caiyuanhao1998/RSN/blob/master/figures/2020_winner.png" height="153px"/> <img src="https://github.com/caiyuanhao1998/MST/blob/main/figure/ntire.png" height="153px"/> 
 
 🌱 **My Repositories**
 |   Topic   |     Title     |    Badge  |
