@@ -4,10 +4,10 @@
 :rocket: Interested in Human Pose Estimation, Image Restoration, and Generative Adversarial Networks.
 
 
-:mortar_board: Now Master student in THU. Obtained my bachelor's degree from THU.
+:mortar_board: Now a first-year [CS](https://www.cs.jhu.edu/) PhD student in [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 
 
-:fire: Looking for a PhD position in 2023. Contact to cyh20@mails.tsinghua.edu.cn.
+:fire: Obtained my MSE and BSE degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
 
 ⚡ An active player in competitions of international top academic conferences:
 
