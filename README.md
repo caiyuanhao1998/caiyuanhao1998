@@ -7,7 +7,7 @@
 :mortar_board: Now a first-year [CS](https://www.cs.jhu.edu/) PhD student in [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 
 
-:fire: Obtained my MSE and BSE degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/).
+:fire: Obtained my MSE and BSE degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020 and 2023.
 
 ⚡ An active player in competitions of international top academic conferences:
 
