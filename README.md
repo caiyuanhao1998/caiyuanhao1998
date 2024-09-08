@@ -4,7 +4,7 @@
 :rocket: Interested in 3D Vision, Human Pose Estimation, Image Restoration, and Generative Adversarial Networks.
 
 
-:mortar_board: Now a first-year [CS](https://www.cs.jhu.edu/) PhD student in [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
+:mortar_board: Now a second-year [CS](https://www.cs.jhu.edu/) PhD student in [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 
 
 :fire: Obtained my BSE and MSE degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020 and 2023.
