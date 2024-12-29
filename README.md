@@ -1,7 +1,7 @@
 ### Yuanhao Cai     
 [![Personal Website](https://img.shields.io/badge/Web-YuanhaoCai-green)](https://caiyuanhao1998.github.io) [![Email](https://img.shields.io/badge/-caiyuanhao1998@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:caiyuanhao1998@gmail.com)](mailto:caiyuanhao1998@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=3YozQwcAAAAJ&hl=en) [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-blue)](https://www.zhihu.com/people/cyh-28-29) [![GitHub Followers](https://img.shields.io/github/followers/caiyuanhao1998?style=social)](https://github.com/caiyuanhao1998)
 
-:rocket: Interested in 3D Vision, Human Pose Estimation, Image Restoration, and Generative Adversarial Networks.
+:rocket: Interested in 3D Vision and Generative AI.
 
 
 :mortar_board: Now a second-year [CS](https://www.cs.jhu.edu/) PhD student in [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
