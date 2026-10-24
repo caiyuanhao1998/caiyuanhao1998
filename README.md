@@ -4,7 +4,7 @@
 :rocket: Interested in Generative AI, Multi-modal Understanding and Thinking
 
 
-:mortar_board: Earned my [CS](https://www.cs.jhu.edu/) PhD degree from [Johns Hopkins University](https://www.jhu.edu/), advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
+:mortar_board: Earned my [CS](https://www.cs.jhu.edu/) PhD degree from [Johns Hopkins University](https://www.jhu.edu/) in 2026, advised by prof. [Alan Yuille](https://www.cs.jhu.edu/~ayuille/).
 
 
 :fire: Obtained my BSE and MSE degrees from [Tsinghua University](https://www.tsinghua.edu.cn/en/) in 2020 and 2023.
