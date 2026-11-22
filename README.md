@@ -9,7 +9,7 @@
   <a href="https://github.com/caiyuanhao1998"><img src="https://img.shields.io/github/stars/caiyuanhao1998?affiliations=OWNER%2CCOLLABORATOR&amp;" alt="GitHub Stars" height="18"></a>
 </p>
 
-🎓 PhD in [Johns Hopkins University](https://www.jhu.edu/) (2023 - 2026), Bachelor and Master in [Tsinghua University](https://www.tsinghua.edu.cn/en/) (2016 - 2020 - 2023).
+🎓 PhD in <a href="https://www.jhu.edu/"><img src="assets/johns-hopkins-shield.png" alt="Johns Hopkins University website" height="18"></a> Johns Hopkins University (2023 - 2026), Bachelor and Master in <a href="https://www.tsinghua.edu.cn/en/"><img src="assets/tsinghua-emblem.png" alt="Tsinghua University website" height="18"></a> Tsinghua University (2016 - 2020 - 2023).
 
 ⚡ An active player in competitions of international top academic conferences:
 
