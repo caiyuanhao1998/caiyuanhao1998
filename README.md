@@ -13,10 +13,9 @@
 
 <p>
   <strong>Winners in</strong>
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" title="2019 COCO Keypoint Challenge Winner Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> COCO ’19</a> ·
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" title="2020 COCO Keypoint Challenge Winner Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> COCO + LVIS ’20</a> ·
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" title="NTIRE 2022 Spectral Recovery Winner Award"><img src="https://data.vision.ee.ethz.ch/cvl/ntire22/logos/NTIRE2020_logo.png" alt="" height="14" align="absmiddle"> NTIRE ’22</a> ·
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png" title="2019 COCO + Mapillary Best Paper Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> Best Paper ’19</a>
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" title="2019 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2019 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO ’19 ·
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" title="2020 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2020 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO ’20 ·
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" title="NTIRE 2022 Spectral Recovery Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="NTIRE 2022 Spectral Recovery Winner Award" height="16" align="absmiddle"></a> NTIRE ’22
 </p>
 
 <p>
@@ -25,7 +24,7 @@
   <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" alt="2020 COCO Keypoint Challenge Winner Award" width="31.76%"></a>
 </p>
 
-**Stanford/Elsevier World’s Top 2% Scientists** ([2025](https://caiyuanhao1998.github.io/images/top2_scientist.jpg), [2026](https://caiyuanhao1998.github.io/images/top2_2026.jpg)).
+**World’s Top 2% 学者** (2025, 2026).
 
 ### 🌱 My Repositories
 
