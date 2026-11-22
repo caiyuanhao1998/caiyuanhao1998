@@ -1,5 +1,6 @@
 ### Yuanhao Cai     
-[![Personal Website](https://img.shields.io/badge/Web-YuanhaoCai-green)](https://caiyuanhao1998.github.io) [![Email](https://img.shields.io/badge/-caiyuanhao1998@gmail.com-yellowgreen?style=flat-square&labelColor=grey&logo=Gmail&logoColor=white&link=mailto:caiyuanhao1998@gmail.com)](mailto:caiyuanhao1998@gmail.com) [![Google scholar](https://img.shields.io/badge/Google-Scholar-yellow)](https://scholar.google.com/citations?user=3YozQwcAAAAJ&hl=en) [![ZhiHu](https://img.shields.io/badge/ZhiHu-知乎-blue)](https://www.zhihu.com/people/cyh-28-29) [![GitHub Stars](https://img.shields.io/github/stars/caiyuanhao1998?affiliations=OWNER%2CCOLLABORATOR&)](https://github.com/caiyuanhao1998) [![GitHub Followers](https://img.shields.io/github/followers/caiyuanhao1998?style=social)](https://github.com/caiyuanhao1998)
+[![🏠 Home page](assets/homepage.svg)](https://caiyuanhao1998.github.io) [![Google Scholar citations](https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D3YozQwcAAAAJ%26hl%3Den&query=%2F%2F%2A%5B%40id%3D%22gsc_rsb_st%22%5D%2Ftbody%2Ftr%5B1%5D%2Ftd%5B2%5D%2Ftext%28%29&label=Google+Scholar&logo=googlescholar&logoColor=white&color=4285F4&suffix=+citations)](https://scholar.google.com/citations?user=3YozQwcAAAAJ&hl=en) [![知乎 - 个人主页](assets/zhihu-homepage.svg)](https://www.zhihu.com/people/cyh-28-29)<br>
+[![GitHub Stars](https://img.shields.io/github/stars/caiyuanhao1998?affiliations=OWNER%2CCOLLABORATOR&)](https://github.com/caiyuanhao1998) [![GitHub Followers](https://img.shields.io/github/followers/caiyuanhao1998?style=social)](https://github.com/caiyuanhao1998) [![🤗 HuggingFace total downloads](https://img.shields.io/static/v1?label=HuggingFace&message=110k+downloads&color=FFD21E&logo=huggingface&logoColor=FFD21E)](https://huggingface.co/CaiYuanhao)
 
 :rocket: Interested in Generative AI, Multi-modal Understanding and Thinking
 
@@ -13,7 +14,18 @@
 
 <img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/caiyuanhao1998.github.io/master/images/AI4CC_best_paper.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/NTIRE_2024.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/robocup_1.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/robocup_2.png" width="260px"/> <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/robocup_3.png" width="260px"/>
 
-🌱 **My Repositories**
+### 🌱 My Repositories
+
+| Research Area | Repositories |
+| :--- | :--- |
+| **3D Vision & Generation** | [Open-DiffusionGS](https://github.com/caiyuanhao1998/Open-DiffusionGS) · [HDR-GS](https://github.com/caiyuanhao1998/HDR-GS) · [X-Gaussian](https://github.com/caiyuanhao1998/X-Gaussian) · [SAX-NeRF](https://github.com/caiyuanhao1998/SAX-NeRF) |
+| **Spectral Imaging** | [MST](https://github.com/caiyuanhao1998/MST) · [MST++](https://github.com/caiyuanhao1998/MST-plus-plus) · [BiSCI](https://github.com/caiyuanhao1998/BiSCI) |
+| **Image & Video Restoration** | [Retinexformer](https://github.com/caiyuanhao1998/Retinexformer) · [PNGAN](https://github.com/caiyuanhao1998/PNGAN) · [VR-Baseline](https://github.com/linjing7/VR-Baseline) · [Real-Fundus](https://github.com/dengzhuo-AI/Real-Fundus) |
+| **Human Pose Estimation** | [RSN](https://github.com/caiyuanhao1998/RSN) |
+
+<details>
+<summary>Paper titles, awards, and GitHub stats</summary>
+
 |   Topic   |     Title     |    Badge  |
 |:---:|:------:|             :--------------------------:                     |
 |  Image-to-3D Generation, 3D Gaussian Splatting, Novel View Synthesis, 3D Reconstruction  |   ["Baking Gaussian Splatting into Diffusion Denoiser for Fast and Scalable Single-stage Image-to-3D Generation and Reconstruction" (ICCV 2025)](https://github.com/caiyuanhao1998/Open-DiffusionGS)   |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2411.14384)[![GitHub Stars](https://img.shields.io/github/stars/caiyuanhao1998/Open-DiffusionGS?style=social)](https://github.com/caiyuanhao1998/Open-DiffusionGS)[![GitHub Forks](https://img.shields.io/github/forks/caiyuanhao1998/Open-DiffusionGS?style=social)](https://github.com/caiyuanhao1998/Open-DiffusionGS)
@@ -29,3 +41,4 @@
 |  Video Restoration   |   "[A toolbox for video restoration (deblurring, super-resolution, and compressed video enhancedment)](https://github.com/linjing7/VR-Baseline) including our [FGST (ICML 2022)](https://arxiv.org/abs/2201.01893) and [S2SVR (ICML 2022)](https://arxiv.org/abs/2205.10195), and so on"    |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2201.01893)[![GitHub Stars](https://img.shields.io/github/stars/linjing7/VR-Baseline?style=social)](https://github.com/linjing7/VR-Baseline)[![GitHub Forks](https://img.shields.io/github/forks/linjing7/VR-Baseline?style=social)](https://github.com/linjing7/VR-Baseline)
 |  Medical Image Enhancement   |   ["RFormer: Transformer-based Generative Adversarial Network for Real Fundus Image Restoration on A New Clinical Benchmark" (J-BHI 2022)](https://github.com/dengzhuo-AI/Real-Fundus)    |   [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2201.00466)[![GitHub Stars](https://img.shields.io/github/stars/dengzhuo-AI/Real-Fundus?style=social)](https://github.com/dengzhuo-AI/Real-Fundus)[![GitHub Forks](https://img.shields.io/github/forks/dengzhuo-AI/Real-Fundus?style=social)](https://github.com/dengzhuo-AI/Real-Fundus)
 
+</details>
