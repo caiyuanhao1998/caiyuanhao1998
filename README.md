@@ -9,7 +9,7 @@
   <a href="https://github.com/caiyuanhao1998"><img src="https://img.shields.io/github/stars/caiyuanhao1998?affiliations=OWNER%2CCOLLABORATOR&amp;" alt="GitHub Stars" height="18"></a>
 </p>
 
-🎓 [Johns Hopkins](https://www.jhu.edu/) [CS](https://www.cs.jhu.edu/) PhD ’26, advised by [Alan Yuille](https://www.cs.jhu.edu/~ayuille/) · [Tsinghua University](https://www.tsinghua.edu.cn/en/) BSE ’20, MSE ’23.
+🎓 PhD in [Johns Hopkins University](https://www.jhu.edu/) (2023 - 2026), Bachelor and Master in [Tsinghua University](https://www.tsinghua.edu.cn/en/) (2016 - 2020 - 2023).
 
 ⚡ An active player in competitions of international top academic conferences:
 
