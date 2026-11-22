@@ -11,20 +11,16 @@
 
 🎓 PhD in <a href="https://www.jhu.edu/"><img src="assets/johns-hopkins-shield.png" alt="Johns Hopkins University website" height="18" align="absmiddle"></a> Johns Hopkins University (2023 - 2026), Bachelor and Master in <a href="https://www.tsinghua.edu.cn/en/"><img src="assets/tsinghua-emblem.png" alt="Tsinghua University website" height="18" align="absmiddle"></a> Tsinghua University (2016 - 2020 - 2023).
 
-<p>
-  <strong>Winners in</strong>
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" title="2019 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2019 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO ’19 ·
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" title="2020 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2020 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO ’20 ·
-  <a href="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" title="NTIRE 2022 Spectral Recovery Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="NTIRE 2022 Spectral Recovery Winner Award" height="16" align="absmiddle"></a> NTIRE ’22
-</p>
+🥇 Winners in
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" title="2019 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2019 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO 2019, 
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" title="2020 COCO Keypoint Challenge Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="2020 COCO Keypoint Challenge Winner Award" height="16" align="absmiddle"></a> COCO 2020, 
+  and <a href="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" title="NTIRE 2022 Spectral Recovery Winner Award"><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3c6.png" alt="NTIRE 2022 Spectral Recovery Winner Award" height="16" align="absmiddle"></a> NTIRE 2022. 🎖️ World's Top 2% Scientists in 2025 and 2026.
 
 <p>
   <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" alt="2019 COCO Keypoint Challenge Winner Award" width="32.73%"></a>
   <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png" alt="2019 COCO + Mapillary Best Paper Award" width="31.51%"></a>
   <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" alt="2020 COCO Keypoint Challenge Winner Award" width="31.76%"></a>
 </p>
-
-**World’s Top 2% 学者** (2025, 2026).
 
 ### 🌱 My Repositories
 
