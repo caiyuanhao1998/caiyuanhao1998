@@ -11,13 +11,21 @@
 
 🎓 PhD in <a href="https://www.jhu.edu/"><img src="assets/johns-hopkins-shield.png" alt="Johns Hopkins University website" height="18" align="absmiddle"></a> Johns Hopkins University (2023 - 2026), Bachelor and Master in <a href="https://www.tsinghua.edu.cn/en/"><img src="assets/tsinghua-emblem.png" alt="Tsinghua University website" height="18" align="absmiddle"></a> Tsinghua University (2016 - 2020 - 2023).
 
-⚡ An active player in competitions of international top academic conferences:
+<p>
+  <strong>Winners in</strong>
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" title="2019 COCO Keypoint Challenge Winner Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> COCO ’19</a> ·
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" title="2020 COCO Keypoint Challenge Winner Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> COCO + LVIS ’20</a> ·
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" title="NTIRE 2022 Spectral Recovery Winner Award"><img src="https://data.vision.ee.ethz.ch/cvl/ntire22/logos/NTIRE2020_logo.png" alt="" height="14" align="absmiddle"> NTIRE ’22</a> ·
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png" title="2019 COCO + Mapillary Best Paper Award"><img src="https://cocodataset.org/images/coco-logo.png" alt="" height="14" align="absmiddle"> Best Paper ’19</a>
+</p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" alt="2019 COCO Keypoint Challenge Winner Award" width="29.84%">
-  <img src="https://raw.githubusercontent.com/caiyuanhao1998/MST/main/figure/ntire.png" alt="NTIRE 2022 Spectral Recovery Winner Award" width="37.20%">
-  <img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" alt="2020 COCO Keypoint Challenge Winner Award" width="28.96%">
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_winner.png" alt="2019 COCO Keypoint Challenge Winner Award" width="32.73%"></a>
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2019_best_paper.png" alt="2019 COCO + Mapillary Best Paper Award" width="31.51%"></a>
+  <a href="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png"><img src="https://raw.githubusercontent.com/caiyuanhao1998/RSN/master/figures/2020_winner.png" alt="2020 COCO Keypoint Challenge Winner Award" width="31.76%"></a>
 </p>
+
+**Stanford/Elsevier World’s Top 2% Scientists** ([2025](https://caiyuanhao1998.github.io/images/top2_scientist.jpg), [2026](https://caiyuanhao1998.github.io/images/top2_2026.jpg)).
 
 ### 🌱 My Repositories
 
