@@ -12,7 +12,7 @@
   </clipPath>
   <g clip-path="url(#r)">
     <rect width="102" height="20" fill="#555" />
-    <rect x="102" width="99" height="20" fill="#ffe052" />
+    <rect x="102" width="99" height="20" fill="#e5c239" />
     <rect width="102" height="20" fill="url(#s)" />
   </g>
   <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
@@ -25,7 +25,11 @@
       <text x="605" y="140" textLength="750">Hugging Face</text>
     </g>
     <g transform="scale(.1)">
-      <text x="1505" y="140" textLength="890" fill="#3b3213">110k downloads</text>
+      <g aria-hidden="true" fill="#010101">
+        <text x="1505" y="150" fill-opacity=".8" filter="url(#blur)" textLength="890">110k downloads</text>
+        <text x="1505" y="150" fill-opacity=".3" textLength="890">110k downloads</text>
+      </g>
+      <text x="1505" y="140" textLength="890" fill="#fff">110k downloads</text>
     </g>
   </g>
 </svg>
