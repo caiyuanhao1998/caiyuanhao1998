@@ -2,11 +2,11 @@
 
 <p>
   <a href="https://www.zhihu.com/people/cyh-28-29"><img src="assets/zhihu-profile.svg" alt="知乎 - 个人主页" height="19"></a>
-  <a href="https://scholar.google.com/citations?user=3YozQwcAAAAJ&amp;hl=en"><img src="https://img.shields.io/badge/dynamic/xml?url=https%3A%2F%2Fscholar.google.com%2Fcitations%3Fuser%3D3YozQwcAAAAJ%26hl%3Den&amp;query=%2F%2F%2A%5B%40id%3D%22gsc_rsb_st%22%5D%2Ftbody%2Ftr%5B1%5D%2Ftd%5B2%5D%2Ftext%28%29&amp;label=Google+Scholar&amp;logo=googlescholar&amp;logoColor=white&amp;color=4285F4&amp;suffix=+citations" alt="Google Scholar citations" height="19"></a>
+  <a href="https://scholar.google.com/citations?user=3YozQwcAAAAJ&amp;hl=en"><img src="assets/google-scholar-citations.svg" alt="Google Scholar citations" height="19"></a>
   <a href="https://www.linkedin.com/in/yuanhao-cai-b8463b297/"><img src="assets/linkedin-profile-629a54.svg" alt="Linkedin profile" height="19"></a>
   <a href="https://caiyuanhao1998.github.io"><img src="assets/homepage.svg" alt="🏠 Home page" height="19"></a>
   <a href="https://huggingface.co/CaiYuanhao"><img src="assets/hugging-face-downloads-d3ab32.svg" alt="🤗 Hugging Face total downloads" height="19"></a>
-  <a href="https://github.com/caiyuanhao1998"><img src="https://img.shields.io/github/stars/caiyuanhao1998?affiliations=OWNER%2CCOLLABORATOR&amp;" alt="GitHub Stars" height="19"></a>
+  <a href="https://github.com/caiyuanhao1998"><img src="assets/github-stars.svg" alt="GitHub Stars" height="19"></a>
 </p>
 
 🎓 PhD in <a href="https://www.jhu.edu/"><img src="assets/johns-hopkins-shield.png" alt="Johns Hopkins University website" height="18" align="absmiddle"></a> Johns Hopkins University (2023 - 2026), Bachelor and Master in <a href="https://www.tsinghua.edu.cn/en/"><img src="assets/tsinghua-emblem.png" alt="Tsinghua University website" height="18" align="absmiddle"></a> Tsinghua University (2016 - 2020 - 2023)
