@@ -3,7 +3,13 @@ name: Refresh profile badges
 on:
   schedule:
     - cron: '17 0,12 * * *'
+    - cron: '17 2,4,6,8,10,14,16,18,20,22 * * *'
   workflow_dispatch:
+    inputs:
+      scholar_only:
+        description: Refresh only Google Scholar
+        type: boolean
+        default: false
 
 concurrency:
   group: refresh-profile-badges
@@ -21,7 +27,14 @@ jobs:
         with:
           fetch-depth: 0
       - name: Fetch valid badge snapshots
-        run: python3 scripts/refresh_badges.py
+        env:
+          REFRESH_STARS: ${{ github.event.schedule == '17 0,12 * * *' || (github.event_name == 'workflow_dispatch' && !inputs.scholar_only) }}
+        run: |
+          if [ "$REFRESH_STARS" = true ]; then
+            python3 scripts/refresh_badges.py
+          else
+            python3 scripts/refresh_badges.py --scholar-only
+          fi
       - name: Publish changed badges
         run: |
           git add -- assets/google-scholar-citations.svg assets/github-stars.svg

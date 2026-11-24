@@ -1,5 +1,6 @@
 """Refresh local copies of the profile's two dynamic badges."""
 
+from argparse import ArgumentParser
 from http.client import HTTPException
 from pathlib import Path
 import re
@@ -66,11 +67,14 @@ def refresh(filename, url, label_pattern):
     return True
 
 
-def main():
-    results = [refresh(*badge) for badge in BADGES]
+def main(scholar_only=False):
+    selected = BADGES[:1] if scholar_only else BADGES
+    results = [refresh(*badge) for badge in selected]
     if not all(results):
         raise SystemExit("A badge could not be fetched and has no saved copy.")
 
 
 if __name__ == "__main__":
-    main()
+    parser = ArgumentParser(description=__doc__)
+    parser.add_argument("--scholar-only", action="store_true", help="refresh only Google Scholar")
+    main(scholar_only=parser.parse_args().scholar_only)
